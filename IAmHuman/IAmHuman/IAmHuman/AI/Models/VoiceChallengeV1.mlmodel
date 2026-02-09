@@ -1,0 +1,4 @@
+# Placeholder model file for PoC wiring.
+# Replace with a valid Core ML model artifact:
+# - Name: VoiceChallengeV1.mlmodel
+# - Task: ah / oh / silence classification
